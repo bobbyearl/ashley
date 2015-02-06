@@ -11,19 +11,19 @@ categories:
 <div id='gallery-1' class='gallery galleryid-13 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://ashley.simplyearl.com/archives/13/halloween1'><img width="150" height="150" src="http://ashley.simplyearl.com/wp-content/uploads/2010/11/halloween1-150x150.jpg" class="attachment-thumbnail" alt="halloween1" /></a>
+      <a href='http://bobbyearl.com/ashley/archives/13/halloween1'><img width="150" height="150" src="http://bobbyearl.com/ashley/wp-content/uploads/2010/11/halloween1-150x150.jpg" class="attachment-thumbnail" alt="halloween1" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://ashley.simplyearl.com/archives/13/halloween2'><img width="150" height="150" src="http://ashley.simplyearl.com/wp-content/uploads/2010/11/halloween2-150x150.jpg" class="attachment-thumbnail" alt="halloween2" /></a>
+      <a href='http://bobbyearl.com/ashley/archives/13/halloween2'><img width="150" height="150" src="http://bobbyearl.com/ashley/wp-content/uploads/2010/11/halloween2-150x150.jpg" class="attachment-thumbnail" alt="halloween2" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://ashley.simplyearl.com/archives/13/halloween3'><img width="150" height="150" src="http://ashley.simplyearl.com/wp-content/uploads/2010/11/halloween3-150x150.jpg" class="attachment-thumbnail" alt="halloween3" /></a>
+      <a href='http://bobbyearl.com/ashley/archives/13/halloween3'><img width="150" height="150" src="http://bobbyearl.com/ashley/wp-content/uploads/2010/11/halloween3-150x150.jpg" class="attachment-thumbnail" alt="halloween3" /></a>
     </dt>
   </dl>
   
@@ -31,19 +31,19 @@ categories:
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://ashley.simplyearl.com/archives/13/halloween4'><img width="150" height="150" src="http://ashley.simplyearl.com/wp-content/uploads/2010/11/halloween4-150x150.jpg" class="attachment-thumbnail" alt="halloween4" /></a>
+      <a href='http://bobbyearl.com/ashley/archives/13/halloween4'><img width="150" height="150" src="http://bobbyearl.com/ashley/wp-content/uploads/2010/11/halloween4-150x150.jpg" class="attachment-thumbnail" alt="halloween4" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://ashley.simplyearl.com/archives/13/halloween5'><img width="150" height="150" src="http://ashley.simplyearl.com/wp-content/uploads/2010/11/halloween5-150x150.jpg" class="attachment-thumbnail" alt="halloween5" /></a>
+      <a href='http://bobbyearl.com/ashley/archives/13/halloween5'><img width="150" height="150" src="http://bobbyearl.com/ashley/wp-content/uploads/2010/11/halloween5-150x150.jpg" class="attachment-thumbnail" alt="halloween5" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://ashley.simplyearl.com/archives/13/halloween6'><img width="150" height="150" src="http://ashley.simplyearl.com/wp-content/uploads/2010/11/halloween6-150x150.jpg" class="attachment-thumbnail" alt="Halloween6" /></a>
+      <a href='http://bobbyearl.com/ashley/archives/13/halloween6'><img width="150" height="150" src="http://bobbyearl.com/ashley/wp-content/uploads/2010/11/halloween6-150x150.jpg" class="attachment-thumbnail" alt="Halloween6" /></a>
     </dt>
   </dl>
   
